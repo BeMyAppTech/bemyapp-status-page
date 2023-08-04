@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://status2.bemyapp.com",
+  "start_url": "https://status.bemyapp.com",
   "display": "standalone",
   "theme_color": "#3da751"
 }
